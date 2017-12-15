@@ -1,3 +1,5 @@
+IN PROGRESS
+
 React Native, CSS, Realm
 
 ASK: Use provided designs to build a cross-platform (iOS and Android) app for an upcoming conference. Through the app, users should be able to see details of the schedule, individual sessions, and speakers. Users should also be able to save individual sessions under a favourite tab for easy access.
