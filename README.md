@@ -1,5 +1,5 @@
-React Native, CSS, Realm
 
+<h1> R10 - React Native</h1>
 <h3>ASK:</h3> 
 <p>Use provided designs to build a cross-platform (iOS and Android) app for an upcoming conference. Through the app, users should be able to see details of the schedule, individual sessions, and speakers. Users should also be able to save individual sessions under a favourite tab for easy access.</p>
 
