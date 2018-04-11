@@ -1,5 +1,3 @@
-IN PROGRESS
-
 React Native, CSS, Realm
 
 <h3>ASK:</h3> 
