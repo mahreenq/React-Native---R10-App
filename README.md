@@ -5,6 +5,8 @@
 <h3>FINISHED PRODUCT:</h3>
 <p>React Native was used to build the app. All data was fetched through Firebase API endpoints. Redux is applied to manage state and Realm is used as a database to store ‘favourite’ sessions.</p>
 
+<br>
+
 <p align="middle">
     <img src="./screenshots/about-scene-1.png" alt="About scene" width="30%" hspace="20">
     <img src="./screenshots/schedule-scene.png" alt="Schedule scene" width="30%" hspace="20">
